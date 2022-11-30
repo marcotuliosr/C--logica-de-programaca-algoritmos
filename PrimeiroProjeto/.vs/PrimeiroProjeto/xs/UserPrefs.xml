@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0E24F813-F857-40AE-9E87-D0348B481901}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaidaDeDos/Program.cs">
+    <Files>
+      <File FileName="SaidaDeDos/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimeiroProjeto" expanded="True">
+            <Node name="PrimeiroProjeto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="SaidaDeDos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PrimeiroProjeto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SaidaDeDos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/bin/Debug/net6.0/SaidaDeDos
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/bin/Debug/net6.0/SaidaDeDos.deps.json
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/bin/Debug/net6.0/SaidaDeDos.runtimeconfig.json
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/bin/Debug/net6.0/SaidaDeDos.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/bin/Debug/net6.0/SaidaDeDos.pdb
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.csproj.AssemblyReference.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.AssemblyInfoInputs.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.AssemblyInfo.cs
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.csproj.CoreCompileInputs.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/refint/SaidaDeDos.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.pdb
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/SaidaDeDos.genruntimeconfig.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/SaidaDeDos/obj/Debug/net6.0/ref/SaidaDeDos.dll

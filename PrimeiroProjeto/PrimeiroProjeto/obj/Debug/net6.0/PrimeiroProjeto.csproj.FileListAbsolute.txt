@@ -1,0 +1,15 @@
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.deps.json
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.runtimeconfig.json
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.pdb
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfo.cs
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/refint/PrimeiroProjeto.dll
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.pdb
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.genruntimeconfig.cache
+/Users/marcotuliodasilvarocha/Desktop/PROJECT/C#-logica-de-programaca-algoritmos/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net6.0/ref/PrimeiroProjeto.dll
